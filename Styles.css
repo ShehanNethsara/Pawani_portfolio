@@ -401,11 +401,11 @@ body {
 }
 
 .contribution-section {
-  background: rgba(249, 249, 249, 0.9);
-  padding: 1.5rem;
-  border-radius: 8px;
-  margin-bottom: 1.5rem;
-  border-left: 4px solid #27ae60;
+    background: rgba(249, 249, 249, 0.9);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #27ae60;
 }
 
 .blog-meta {
@@ -588,38 +588,38 @@ body {
 /* Footer */
 
 footer {
-  background: linear-gradient(to right, #c290c5, #7386a9, #c290c5);
-  display: flex;                /* # enables flexbox for centering */
-  flex-direction: column;       /* # stack links and text vertically */
-  align-items: center;          /* # centers horizontally */
-  justify-content: center;      /* # centers vertically */
-  text-align: center;           /* # centers text alignment */
-  padding: 15px 10px;
-  color: white;
-  margin-top: 40px;
-  position: static;             /* # footer appears only at page end */
-  width: 100%;
-  font-size: 0.95rem;
-  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.15);
+    background: linear-gradient(to right, #c290c5, #7386a9, #c290c5);
+    display: flex;                /* # enables flexbox for centering */
+    flex-direction: column;       /* # stack links and text vertically */
+    align-items: center;          /* # centers horizontally */
+    justify-content: center;      /* # centers vertically */
+    text-align: center;           /* # centers text alignment */
+    padding: 15px 10px;
+    color: white;
+    margin-top: 40px;
+    position: static;             /* # footer appears only at page end */
+    width: 100%;
+    font-size: 0.95rem;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.15);
 }
 .footer-links {
-  margin-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .footer-links a {
-  color: white;
-  text-decoration: none;
-  margin: 0 10px;
-  font-weight: 500;
-  transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: 500;
+    transition: color 0.3s ease;
 }
 
 .footer-links a:hover {
-  color: #170f85;
+    color: #170f85;
 }
 .footer-copy {
-  font-size: 0.9rem;
-  opacity: 0.85;
+    font-size: 0.9rem;
+    opacity: 0.85;
 }
 
 /* Responsive Design */
